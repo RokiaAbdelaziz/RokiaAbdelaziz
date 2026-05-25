@@ -8,3 +8,14 @@
 
 ### I take coffee, chaos, and codes, smash them together, and build games
 **Current Status:** Refusing to let my code win the argument.
+## 🐍 My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RokiaAbdelaziz/RokiaAbdelaziz/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RokiaAbdelaziz/RokiaAbdelaziz/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/RokiaAbdelaziz/RokiaAbdelaziz/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<hr>
